@@ -1,0 +1,23 @@
+{
+  "name": "Lesson-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "howler": "^2.2.3",
+    "luxon": "^1.27.0",
+    "webpack": "^5.42.0",
+    "webpack-cli": "^4.7.2"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^5.3.2",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
